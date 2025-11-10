@@ -6,7 +6,7 @@
        " First, solve the problem. Then, write the code"
         <footer>
           <small>
-            <em>ทดลองพิมพ์ไทย</em>
+            <em>ทดลองพิมพ์ไทยอิอิ</em>
           </small>
         </footer>
       </blockquote>
