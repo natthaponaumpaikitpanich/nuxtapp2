@@ -1,0 +1,4 @@
+Node Version 16/18 Support Nuxt 2 else Nuxt 3
+node -v ---for check
+Copy / Dowload Form Github : npm i
+Devalopment : npm run dev

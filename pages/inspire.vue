@@ -6,7 +6,7 @@
        " First, solve the problem. Then, write the code"
         <footer>
           <small>
-            <em>ทดลองพิมพ์ไทยอิอิ</em>
+            &mdash; John Johnson
           </small>
         </footer>
       </blockquote>
@@ -19,6 +19,9 @@
   <v-btn>
     click
   </v-btn>
+<div> <v-btn>
+    click
+  </v-btn>  </div>
 </center> 
 </div>
    
